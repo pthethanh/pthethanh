@@ -2,6 +2,10 @@
 
 I'm Thanh. I'm a project manager who loves developing applications using Go.
 
+🔭 I’m currently working on some banking and healthcare applications using Go.
+👯 I'm looking for partime remote job related to Go.
+📫 To reach me, please leave me a message on [github issues](https://github.com/pthethanh/pthethanh/issues)
+
 <!--
 **pthethanh/pthethanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
