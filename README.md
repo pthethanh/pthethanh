@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Thanh. I'm a project manager who loves developing applications using Go.
+
 <!--
 **pthethanh/pthethanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
