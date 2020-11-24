@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Thanh. I'm a project manager who loves developing applications using Go.
 
-🔭 I have experiences developing networking, banking, healthcare applications using Go, Java, Azure and UI frameworks such as VueJS and Tailwindcss. I’m currently working on some banking and healthcare applications using Go, Java and Azure.
+🔭 I have experiences developing networking, banking, healthcare applications using Go, Java, Azure and UI frameworks such as VueJS and Tailwindcss. I’m currently working on some banking and healthcare applications.
 
 📫 To contact me or asking for help, please leave a message [here](https://github.com/pthethanh/pthethanh/issues)
 
